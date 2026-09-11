@@ -1,0 +1,554 @@
+date,exercise,weight,reps
+2026-08-02,Smith machine bench press,10,10
+2026-08-02,Smith machine bench press,20,10
+2026-08-02,Smith machine bench press,30,10
+2026-08-02,Smith machine bench press,35,10
+2026-08-02,Smith machine bench press,35,8
+2026-08-02,Smith machine bench press,40,5
+2026-08-02,Smith machine bench press,40,5
+2026-08-02,Dumbbell incline press,35,10
+2026-08-02,Dumbbell incline press,35,10
+2026-08-02,Dumbbell incline press,35,10
+2026-08-02,Dumbbell lateral raise,15,10
+2026-08-02,Dumbbell lateral raise,10,10
+2026-08-02,Dumbbell lateral raise,10,10
+2026-08-02,Dips,8th from top,10
+2026-08-02,Dips,7th from top,10
+2026-08-02,Dips,7th from top,8
+2026-08-02,Triceps push down,30,15
+2026-08-02,Triceps push down,30,15
+2026-08-02,Triceps push down,35,8
+2026-08-03,Treadmill,10 min,1
+2026-08-03,Lat pulldown,25,15
+2026-08-03,Lat pulldown,30,10
+2026-08-03,Lat pulldown,30,10
+2026-08-03,Lat pulldown,30,5
+2026-08-03,Barbell row,10,13
+2026-08-03,Barbell row,10,10
+2026-08-03,Barbell row,10,13
+2026-08-03,One handed rows,5,10
+2026-08-03,One handed rows,5,10
+2026-08-03,One handed rows,5,10
+2026-08-03,Face pull,10,15
+2026-08-03,Face pull,10,15
+2026-08-03,Face pull,10,15
+2026-08-03,Dumbbell curl,7.5,15
+2026-08-03,Dumbbell curl,7.5,15
+2026-08-03,Dumbbell curl,7.5,15
+2026-08-05,Treadmill,20 min,1
+2026-08-05,Back squat,20,10
+2026-08-05,Back squat,40,10
+2026-08-05,Back squat,50,10
+2026-08-05,Back squat,60,10
+2026-08-05,Back squat,60,10
+2026-08-05,Back squat,60,8
+2026-08-05,Leg press,40,15
+2026-08-05,Leg press,40,15
+2026-08-05,Leg press,40,15
+2026-08-06,Treadmill,10 min,1
+2026-08-06,Bench press,0,20
+2026-08-06,Bench press,10,20
+2026-08-06,Bench press,20,10
+2026-08-06,Bench press,30,6
+2026-08-06,Bench press,30,6
+2026-08-06,Bench press,35,4
+2026-08-06,Bench press,35,4
+2026-08-06,Dumbbell incline press,35,10
+2026-08-06,Dumbbell incline press,35,10
+2026-08-06,Dumbbell incline press,35,10
+2026-08-06,Dumbbell lateral raise,10,15
+2026-08-06,Dumbbell lateral raise,10,15
+2026-08-06,Dumbbell lateral raise,10,15
+2026-08-06,Dips,7th from top,10
+2026-08-06,Dips,7th from top,10
+2026-08-07,Lat pulldown,25,15
+2026-08-07,Lat pulldown,30,10
+2026-08-07,Lat pulldown,30,10
+2026-08-07,Lat pulldown,35,8
+2026-08-07,Barbell row,20,10
+2026-08-07,Barbell row,10,10
+2026-08-07,Barbell row,10,10
+2026-08-07,One handed rows,5,15
+2026-08-07,One handed rows,5,15
+2026-08-07,One handed rows,5,15
+2026-08-07,Face pull,10,15
+2026-08-07,Face pull,10,15
+2026-08-07,Face pull,10,15
+2026-08-07,Dumbbell curl,7.5,10
+2026-08-07,Dumbbell curl,10,10
+2026-08-07,Dumbbell curl,10,8
+2026-08-08,Bench press,0,15
+2026-08-08,Bench press,10,15
+2026-08-08,Bench press,20,10
+2026-08-08,Bench press,30,7
+2026-08-08,Bench press,30,6
+2026-08-08,Bench press,35,4
+2026-08-08,Bench press,35,4
+2026-08-08,Dumbbell incline press,17.5,10
+2026-08-08,Dumbbell incline press,17.5,10
+2026-08-08,Dumbbell incline press,17.5,10
+2026-08-08,Dips,7th from top,10
+2026-08-08,Dips,7th from top,10
+2026-08-08,Dips,7th from top,10
+2026-08-08,Triceps push down,35,10
+2026-08-08,Triceps push down,35,10
+2026-08-08,Triceps push down,35,10
+2026-08-08,Dumbbell lateral raise,15,15
+2026-08-08,Dumbbell lateral raise,15,15
+2026-08-08,Dumbbell lateral raise,15,10
+2026-08-14,Bench press,0,20
+2026-08-14,Bench press,10,15
+2026-08-14,Bench press,20,13
+2026-08-14,Bench press,30,4
+2026-08-14,Bench press,30,5
+2026-08-14,Bench press,30,5
+2026-08-14,Bench press,30,5
+2026-08-14,Dips,40,10
+2026-08-14,Dips,40,11
+2026-08-14,Dips,40,10
+2026-08-14,Triceps push down,35,10
+2026-08-14,Triceps push down,35,10
+2026-08-14,Triceps push down,35,10
+2026-08-14,Dumbbell incline press,30,10
+2026-08-14,Dumbbell incline press,30,10
+2026-08-14,Dumbbell incline press,30,10
+2026-08-14,Dumbbell lateral raise,10,15
+2026-08-14,Dumbbell lateral raise,10,10
+2026-08-14,Dumbbell lateral raise,10,10
+2026-08-14,Chest press,30,15
+2026-08-14,Chest press,20,10
+2026-08-14,Treadmill,10 min,1
+2026-08-15,Lat pulldown,20,15
+2026-08-15,Lat pulldown,25,15
+2026-08-15,Lat pulldown,30,8
+2026-08-15,Lat pulldown,30,8
+2026-08-15,Lat pulldown,30,8
+2026-08-15,Barbell row,10,15
+2026-08-15,Barbell row,10,15
+2026-08-15,Barbell row,10,15
+2026-08-15,One handed rows,15,10
+2026-08-15,One handed rows,15,10
+2026-08-15,One handed rows,15,10
+2026-08-15,Face pull,15,15
+2026-08-15,Face pull,15,15
+2026-08-15,Face pull,15,10
+2026-08-15,Dumbbell curl,10,10
+2026-08-15,Dumbbell curl,10,10
+2026-08-15,Dumbbell curl,10,10
+2026-08-19,Bench press,0,20
+2026-08-19,Bench press,10,15
+2026-08-19,Bench press,20,10
+2026-08-19,Bench press,30,7
+2026-08-19,Bench press,30,8
+2026-08-19,Bench press,35,4
+2026-08-19,Bench press,35,5
+2026-08-19,Dumbbell incline press,17.5,10
+2026-08-19,Dumbbell incline press,17.5,10
+2026-08-19,Dumbbell incline press,17.5,10
+2026-08-19,Dumbbell lateral raise,7.5,10
+2026-08-19,Dumbbell lateral raise,7.5,8
+2026-08-19,Dumbbell lateral raise,7.5,10
+2026-08-19,Dips,40,10
+2026-08-19,Dips,35,10
+2026-08-19,Dips,35,10
+2026-08-19,Triceps push down,35,10
+2026-08-19,Triceps push down,30,10
+2026-08-19,Triceps push down,30,11
+2026-08-22,Bench press,0,20
+2026-08-22,Bench press,10,15
+2026-08-22,Bench press,20,11
+2026-08-22,Bench press,30,8
+2026-08-22,Bench press,30,9
+2026-08-22,Bench press,35,6
+2026-08-22,Bench press,35,5
+2026-08-22,Bench press,40,2
+2026-08-22,Bench press,40,2
+2026-08-22,Dumbbell incline press,35,10
+2026-08-22,Dumbbell incline press,40,7
+2026-08-22,Dumbbell incline press,40,8
+2026-08-22,Dips,35,10
+2026-08-22,Dips,35,10
+2026-08-22,Dips,35,10
+2026-08-22,Triceps push down,35,10
+2026-08-22,Triceps push down,40,10
+2026-08-22,Triceps push down,40,10
+2026-08-22,Dumbbell lateral raise,7.5,10
+2026-08-22,Dumbbell lateral raise,7.5,10
+2026-08-22,Dumbbell lateral raise,7.5,10
+2026-08-23,Lat pulldown,10,10
+2026-08-23,Lat pulldown,20,10
+2026-08-23,Lat pulldown,25,10
+2026-08-23,Lat pulldown,30,10
+2026-08-23,Lat pulldown,30,10
+2026-08-23,Lat pulldown,30,10
+2026-08-23,One handed rows,10,10
+2026-08-23,One handed rows,10,10
+2026-08-23,One handed rows,10,10
+2026-08-23,Assisted pull up,35,8
+2026-08-23,Assisted pull up,40,10
+2026-08-23,Assisted pull up,40,10
+2026-08-23,Chest supported row,21.25,10
+2026-08-23,Chest supported row,21.25,10
+2026-08-23,Dumbbell curl,5,20
+2026-08-23,Dumbbell curl,5,15
+2026-08-24,Bench press,0,20
+2026-08-24,Bench press,10,15
+2026-08-24,Bench press,20,13
+2026-08-24,Bench press,30,10
+2026-08-24,Bench press,35,5
+2026-08-24,Bench press,35,6
+2026-08-24,Bench press,40,2
+2026-08-24,Bench press,40,3
+2026-08-24,Dips,35,10
+2026-08-24,Dips,35,10
+2026-08-24,Dips,30,8
+2026-08-24,Triceps push down,40,10
+2026-08-24,Triceps push down,40,8
+2026-08-24,Triceps push down,35,10
+2026-08-24,Chest press,30,15
+2026-08-24,Chest press,40,10
+2026-08-24,Chest press,40,10
+2026-08-24,Overhead press,10,10
+2026-08-24,Overhead press,10,10
+2026-08-24,Overhead press,10,10
+2026-08-26,Overhead press,20,15
+2026-08-26,Overhead press,20,15
+2026-08-26,Overhead press,35,10
+2026-08-26,Overhead press,35,10
+2026-08-26,Dumbbell curl,10,10
+2026-08-26,Dumbbell curl,10,10
+2026-08-26,Dumbbell curl,10,10
+2026-08-26,Lat pulldown,30,10
+2026-08-26,Lat pulldown,30,10
+2026-08-26,Lat pulldown,30,5
+2026-08-26,Assisted pull up,35,5
+2026-08-26,Assisted pull up,40,10
+2026-08-26,Assisted pull up,40,8
+2026-08-26,Leg press,60,20
+2026-08-26,Leg press,70,20
+2026-08-26,Leg press,80,15
+2026-08-27,Smith machine bench press,20,15
+2026-08-27,Smith machine bench press,30,13
+2026-08-27,Smith machine bench press,30,13
+2026-08-27,Smith machine bench press,35,8
+2026-08-27,Smith machine bench press,35,12
+2026-08-27,Smith machine bench press,40,6
+2026-08-27,Smith machine bench press,40,8
+2026-08-27,Dumbbell incline press,40,8
+2026-08-27,Dumbbell incline press,40,9
+2026-08-27,Dumbbell incline press,40,7
+2026-08-27,Chest press,40,10
+2026-08-27,Chest press,40,10
+2026-08-27,Chest press,40,12
+2026-08-27,Overhead press,20,10
+2026-08-27,Overhead press,20,10
+2026-08-27,Overhead press,20,8
+2026-08-27,Triceps push down,40,8
+2026-08-27,Triceps push down,40,8
+2026-08-27,Triceps push down,40,5
+2026-08-27,Dips,35,10
+2026-08-27,Dips,35,10
+2026-08-27,Dips,35,10
+2026-08-27,Dumbbell lateral raise,15,10
+2026-08-27,Dumbbell lateral raise,15,10
+2026-08-27,Dumbbell lateral raise,15,7
+2026-08-28,Lat pulldown,15,10
+2026-08-28,Lat pulldown,20,15
+2026-08-28,Lat pulldown,20,15
+2026-08-28,Lat pulldown,25,10
+2026-08-28,Lat pulldown,25,10
+2026-08-28,Lat pulldown,25,10
+2026-08-28,Assisted pull up,40,10
+2026-08-28,Assisted pull up,40,10
+2026-08-28,Assisted pull up,40,10
+2026-08-28,Face pull,15,15
+2026-08-28,Face pull,20,15
+2026-08-28,Face pull,20,15
+2026-08-28,Dumbbell curl,10,10
+2026-08-28,Dumbbell curl,7.5,10
+2026-08-28,Dumbbell curl,10,8
+2026-08-28,Chest supported row,22.5,10
+2026-08-28,Chest supported row,22.5,10
+2026-08-28,Chest supported row,22.5,10
+2026-08-29,Bench press,0,20
+2026-08-29,Bench press,10,15
+2026-08-29,Bench press,20,15
+2026-08-29,Bench press,30,11
+2026-08-29,Bench press,35,7
+2026-08-29,Bench press,35,8
+2026-08-29,Bench press,40,5
+2026-08-29,Bench press,40,4
+2026-08-29,Bench press,45,2
+2026-08-29,Dumbbell incline press,40,10
+2026-08-29,Dumbbell incline press,40,9
+2026-08-29,Dumbbell incline press,40,7
+2026-08-29,Shoulder press,20,10
+2026-08-29,Shoulder press,20,5
+2026-08-29,Shoulder press,15,10
+2026-08-29,Dumbbell lateral raise,15,10
+2026-08-29,Dumbbell lateral raise,15,10
+2026-08-29,Dumbbell lateral raise,15,10
+2026-08-29,Dips,35,10
+2026-08-29,Dips,35,10
+2026-08-29,Dips,30,10
+2026-08-29,Triceps push down,35,10
+2026-08-29,Triceps push down,35,10
+2026-08-29,Triceps push down,35,10
+2026-08-29,Chest press,45,10
+2026-08-29,Chest press,45,10
+2026-08-29,Chest press,45,10
+2026-08-29,Overhead press,25,7
+2026-08-29,Overhead press,20,8
+2026-08-29,Overhead press,20,7
+2026-08-31,Bench press,0,20
+2026-08-31,Bench press,10,15
+2026-08-31,Bench press,20,15
+2026-08-31,Bench press,30,11
+2026-08-31,Bench press,35,7
+2026-08-31,Bench press,35,8
+2026-08-31,Bench press,40,5
+2026-08-31,Bench press,40,4
+2026-08-31,Bench press,45,2
+2026-08-31,Dumbbell incline press,40,10
+2026-08-31,Dumbbell incline press,40,9
+2026-08-31,Dumbbell incline press,40,7
+2026-08-31,Shoulder press,20,10
+2026-08-31,Shoulder press,20,5
+2026-08-31,Shoulder press,15,10
+2026-08-31,Dumbbell lateral raise,15,10
+2026-08-31,Dumbbell lateral raise,15,10
+2026-08-31,Dumbbell lateral raise,15,10
+2026-08-31,Dips,35,10
+2026-08-31,Dips,35,10
+2026-08-31,Dips,30,10
+2026-08-31,Triceps push down,35,10
+2026-08-31,Triceps push down,35,10
+2026-08-31,Triceps push down,35,10
+2026-08-31,Chest press,45,10
+2026-08-31,Chest press,45,10
+2026-08-31,Chest press,45,10
+2026-08-31,Overhead press,25,7
+2026-08-31,Overhead press,20,8
+2026-08-31,Overhead press,20,7
+2026-09-01,Lat pulldown,10,10
+2026-09-01,Lat pulldown,15,10
+2026-09-01,Lat pulldown,20,10
+2026-09-01,Lat pulldown,25,10
+2026-09-01,Lat pulldown,30,10
+2026-09-01,Lat pulldown,30,10
+2026-09-01,Lat pulldown,35,10
+2026-09-01,Assisted pull up,40,10
+2026-09-01,Assisted pull up,40,10
+2026-09-01,Assisted pull up,40,10
+2026-09-01,Face pull,20,15
+2026-09-01,Face pull,25,10
+2026-09-01,Face pull,25,10
+2026-09-01,Dumbbell curl,10,10
+2026-09-01,Dumbbell curl,10,10
+2026-09-01,Dumbbell curl,10,10
+2026-09-01,Chest supported row,25,8
+2026-09-01,Chest supported row,25,8
+2026-09-01,Chest supported row,25,8
+2026-09-01,Overhead press,25,15
+2026-09-01,Overhead press,25,15
+2026-09-01,Overhead press,30,15
+2026-09-02,Back squat,0,15
+2026-09-02,Back squat,10,15
+2026-09-02,Back squat,20,10
+2026-09-02,Back squat,30,10
+2026-09-02,Back squat,40,10
+2026-09-02,Back squat,50,7
+2026-09-02,Back squat,50,7
+2026-09-02,Back squat,50,7
+2026-09-02,Leg press,80,15
+2026-09-02,Leg press,80,15
+2026-09-02,Leg press,80,15
+2026-09-02,Leg extension,40,10
+2026-09-02,Leg extension,45,10
+2026-09-02,Leg extension,50,10
+2026-09-02,Overhead press,25,15
+2026-09-02,Overhead press,25,15
+2026-09-03,Chest press,10,20
+2026-09-03,Chest press,20,20
+2026-09-03,Chest press,30,20
+2026-09-03,Chest press,40,10
+2026-09-03,Chest press,45,10
+2026-09-03,Chest press,45,10
+2026-09-03,Bench press,0,20
+2026-09-03,Bench press,10,20
+2026-09-03,Bench press,20,15
+2026-09-03,Bench press,30,11
+2026-09-03,Bench press,35,6
+2026-09-03,Bench press,35,6
+2026-09-03,Bench press,40,2
+2026-09-03,Bench press,40,2
+2026-09-03,Dumbbell incline press,40,5
+2026-09-03,Dumbbell incline press,35,8
+2026-09-03,Dumbbell incline press,35,10
+2026-09-03,Shoulder press,15,10
+2026-09-03,Shoulder press,15,10
+2026-09-03,Shoulder press,15,10
+2026-09-03,Dips,30,10
+2026-09-03,Dips,30,10
+2026-09-03,Dips,30,10
+2026-09-03,Triceps push down,35,10
+2026-09-03,Triceps push down,35,10
+2026-09-03,Triceps push down,35,10
+2026-09-03,Overhead press,25,10
+2026-09-03,Overhead press,25,10
+2026-09-03,Overhead press,25,10
+2026-09-04,Lat pulldown,10,20
+2026-09-04,Lat pulldown,20,15
+2026-09-04,Lat pulldown,30,12
+2026-09-04,Lat pulldown,35,10
+2026-09-04,Lat pulldown,35,10
+2026-09-04,Lat pulldown,35,10
+2026-09-04,Lat pulldown,40,7
+2026-09-04,Dumbbell curl,10,10
+2026-09-04,Dumbbell curl,10,10
+2026-09-04,Dumbbell curl,10,10
+2026-09-04,Assisted pull up,35,10
+2026-09-04,Assisted pull up,35,8
+2026-09-04,Assisted pull up,35,10
+2026-09-04,Face pull,25,10
+2026-09-04,Face pull,25,10
+2026-09-04,Face pull,25,20
+2026-09-04,Chest supported row,20,10
+2026-09-04,Chest supported row,20,10
+2026-09-04,Chest supported row,20,10
+2026-09-04,Overhead press,30,15
+2026-09-04,Overhead press,30,10
+2026-09-04,Overhead press,30,10
+2026-09-05,Lat pulldown,10,20
+2026-09-05,Lat pulldown,20,15
+2026-09-05,Lat pulldown,30,12
+2026-09-05,Lat pulldown,35,10
+2026-09-05,Lat pulldown,35,10
+2026-09-05,Lat pulldown,35,10
+2026-09-05,Lat pulldown,40,7
+2026-09-05,Dumbbell curl,10,10
+2026-09-05,Dumbbell curl,10,10
+2026-09-05,Dumbbell curl,10,10
+2026-09-05,Assisted pull up,35,10
+2026-09-05,Assisted pull up,35,8
+2026-09-05,Assisted pull up,35,10
+2026-09-05,Face pull,25,10
+2026-09-05,Face pull,25,10
+2026-09-05,Face pull,25,20
+2026-09-05,Chest supported row,20,10
+2026-09-05,Chest supported row,20,10
+2026-09-05,Chest supported row,20,10
+2026-09-05,Overhead press,30,15
+2026-09-05,Overhead press,30,10
+2026-09-05,Overhead press,30,10
+2026-09-06,Back squat,0,20
+2026-09-06,Back squat,10,15
+2026-09-06,Back squat,20,15
+2026-09-06,Back squat,30,12
+2026-09-06,Back squat,40,10
+2026-09-06,Back squat,50,8
+2026-09-06,Back squat,50,8
+2026-09-06,Back squat,50,8
+2026-09-06,Leg press,90,10
+2026-09-06,Leg press,90,10
+2026-09-07,Bench press,0,20
+2026-09-07,Bench press,10,20
+2026-09-07,Bench press,20,15
+2026-09-07,Bench press,30,11
+2026-09-07,Bench press,35,6
+2026-09-07,Bench press,35,7
+2026-09-07,Bench press,40,5
+2026-09-07,Bench press,40,2
+2026-09-07,Dumbbell incline press,40,10
+2026-09-07,Dumbbell incline press,45,6
+2026-09-07,Dumbbell incline press,45,6
+2026-09-07,Shoulder press,20,10
+2026-09-07,Shoulder press,20,9
+2026-09-07,Shoulder press,20,10
+2026-09-07,Dumbbell lateral raise,15,10
+2026-09-07,Dumbbell lateral raise,15,10
+2026-09-07,Dumbbell lateral raise,15,10
+2026-09-07,Dips,30,10
+2026-09-07,Dips,30,10
+2026-09-07,Dips,30,10
+2026-09-07,Triceps push down,35,10
+2026-09-07,Triceps push down,35,10
+2026-09-07,Triceps push down,35,10
+2026-09-07,Chest fly machine,90,10
+2026-09-07,Chest fly machine,90,10
+2026-09-07,Overhead press,30,8
+2026-09-07,Overhead press,30,8
+2026-09-07,Overhead press,30,7
+2026-09-07,Chest press,40,10
+2026-09-07,Chest press,40,10
+2026-09-07,Chest press,40,10
+2026-09-08,Lat pulldown,10,10
+2026-09-08,Lat pulldown,20,10
+2026-09-08,Lat pulldown,30,10
+2026-09-08,Lat pulldown,40,10
+2026-09-08,Lat pulldown,40,10
+2026-09-08,Lat pulldown,40,10
+2026-09-08,Lat pulldown,45,6
+2026-09-08,Dumbbell curl,10,10
+2026-09-08,Dumbbell curl,12.5,8
+2026-09-08,Dumbbell curl,10,5
+2026-09-08,Dumbbell curl,10,5
+2026-09-08,Chest supported row,25,10
+2026-09-08,Chest supported row,25,10
+2026-09-08,Chest supported row,25,10
+2026-09-08,Assisted pull up,35,8
+2026-09-08,Assisted pull up,35,6
+2026-09-08,Assisted pull up,35,6
+2026-09-08,Face pull,25,10
+2026-09-08,Face pull,25,10
+2026-09-08,Face pull,25,10
+2026-09-08,Face pull,25,10
+2026-09-08,Overhead press,30,10
+2026-09-08,Overhead press,30,10
+2026-09-08,Overhead press,30,10
+2026-09-08,Arm curl,10,6
+2026-09-08,Arm curl,10,5
+2026-09-09,Back squat,0,10
+2026-09-09,Back squat,10,10
+2026-09-09,Back squat,20,10
+2026-09-09,Back squat,30,10
+2026-09-09,Back squat,40,10
+2026-09-09,Back squat,50,10
+2026-09-09,Back squat,50,10
+2026-09-09,Back squat,60,5
+2026-09-09,Leg press,90,10
+2026-09-09,Leg press,90,10
+2026-09-09,Leg press,110,10
+2026-09-09,Chest press,50,10
+2026-09-09,Chest press,50,10
+2026-09-09,Chest press,60,10
+2026-09-10,Bench press,0,10
+2026-09-10,Bench press,10,10
+2026-09-10,Bench press,20,10
+2026-09-10,Bench press,30,10
+2026-09-10,Bench press,35,7
+2026-09-10,Bench press,35,8
+2026-09-10,Bench press,40,6
+2026-09-10,Bench press,45,3
+2026-09-10,Bench press,50,1
+2026-09-10,Dumbbell incline press,45,7
+2026-09-10,Dumbbell incline press,45,8
+2026-09-10,Dumbbell incline press,45,8
+2026-09-10,Shoulder press,20,10
+2026-09-10,Shoulder press,20,10
+2026-09-10,Shoulder press,20,15
+2026-09-10,Dumbbell lateral raise,20,5
+2026-09-10,Dumbbell lateral raise,16,10
+2026-09-10,Dumbbell lateral raise,16,10
+2026-09-10,Dips,30,10
+2026-09-10,Dips,30,10
+2026-09-10,Dips,30,10
+2026-09-10,Triceps push down,35,10
+2026-09-10,Triceps push down,35,10
+2026-09-10,Triceps push down,35,10
+2026-09-10,Foot-Assisted Chest Press,20,10
+2026-09-10,Foot-Assisted Chest Press,20,10
+2026-09-10,Foot-Assisted Chest Press,20,10
+2026-09-10,Overhead press,30,10
+2026-09-10,Overhead press,30,10
+2026-09-10,Overhead press,30,10
