@@ -1,30 +1,33 @@
-with open("workout_log.csv") as f:
-  exercise_dict = {}
-  # found = set()
-  for line in f:
-    parts = line.strip().split(",")
-    if parts[2] == "8th from top":
-      parts[2] = "40"
-    if parts[2] == "7th from top":
-      parts[2] = "35"
-    exercise = parts[1]
-    try:
-          weight = float(parts[2])
-    except ValueError:
-      continue
-    if exercise not in exercise_dict:
-      exercise_dict[exercise] = weight
-    else:
-      if exercise_dict[exercise] < weight:
-        exercise_dict[exercise] = weight
-        
-for execise, weight in exercise_dict.items():
-  print(f"{execise}: {weight}")
+def clean_weight(value):
+  if value == "8th from top":
+    value = "40"
+  elif value == "7th from top":
+    value = "35"
+  try:
+    return float(value)
+  except ValueError:
+    return None
 
-  # for line in f:
-  #   if "top" in line:
-  #     print(line)
+def get_max_weight(filename):
+  with open(filename) as f:
+    result = {}
+    for line in f:
+      parts = line.strip().split(",")
+      weight = clean_weight(parts[2])
+      exercise = parts[1]
+      if weight is None:
+        continue
+      if exercise not in result:
+        result[exercise] = weight
+      else:
+        if result[exercise] < weight:
+          result[exercise] = weight
+  return result
 
-  #   if "top" in line:
-  #     found.add(line.strip().split(",")[2])
-  # print(found)
+def print_results(result_dict):
+  for exercise, weight in result_dict.items():
+    print(f"{exercise}: {weight}")
+
+max_weight = get_max_weight("workout_log.csv")
+print_results(max_weight)
+

@@ -46,13 +46,13 @@ date,exercise,weight,reps
 2026-08-05,Leg press,40,15
 2026-08-05,Leg press,40,15
 2026-08-06,Treadmill,10 min,1
-2026-08-06,Bench press,0,20
-2026-08-06,Bench press,10,20
-2026-08-06,Bench press,20,10
-2026-08-06,Bench press,30,6
-2026-08-06,Bench press,30,6
-2026-08-06,Bench press,35,4
-2026-08-06,Bench press,35,4
+2026-08-06,Bench press,20,20
+2026-08-06,Bench press,30,20
+2026-08-06,Bench press,40,10
+2026-08-06,Bench press,50,6
+2026-08-06,Bench press,50,6
+2026-08-06,Bench press,55,4
+2026-08-06,Bench press,55,4
 2026-08-06,Dumbbell incline press,35,10
 2026-08-06,Dumbbell incline press,35,10
 2026-08-06,Dumbbell incline press,35,10
@@ -77,13 +77,13 @@ date,exercise,weight,reps
 2026-08-07,Dumbbell curl,7.5,10
 2026-08-07,Dumbbell curl,10,10
 2026-08-07,Dumbbell curl,10,8
-2026-08-08,Bench press,0,15
-2026-08-08,Bench press,10,15
-2026-08-08,Bench press,20,10
-2026-08-08,Bench press,30,7
-2026-08-08,Bench press,30,6
-2026-08-08,Bench press,35,4
-2026-08-08,Bench press,35,4
+2026-08-08,Bench press,20,15
+2026-08-08,Bench press,30,15
+2026-08-08,Bench press,40,10
+2026-08-08,Bench press,50,7
+2026-08-08,Bench press,50,6
+2026-08-08,Bench press,55,4
+2026-08-08,Bench press,55,4
 2026-08-08,Dumbbell incline press,17.5,10
 2026-08-08,Dumbbell incline press,17.5,10
 2026-08-08,Dumbbell incline press,17.5,10
@@ -96,13 +96,13 @@ date,exercise,weight,reps
 2026-08-08,Dumbbell lateral raise,15,15
 2026-08-08,Dumbbell lateral raise,15,15
 2026-08-08,Dumbbell lateral raise,15,10
-2026-08-14,Bench press,0,20
-2026-08-14,Bench press,10,15
-2026-08-14,Bench press,20,13
-2026-08-14,Bench press,30,4
-2026-08-14,Bench press,30,5
-2026-08-14,Bench press,30,5
-2026-08-14,Bench press,30,5
+2026-08-14,Bench press,20,20
+2026-08-14,Bench press,30,15
+2026-08-14,Bench press,40,13
+2026-08-14,Bench press,40,4
+2026-08-14,Bench press,50,5
+2026-08-14,Bench press,50,5
+2026-08-14,Bench press,50,5
 2026-08-14,Dips,40,10
 2026-08-14,Dips,40,11
 2026-08-14,Dips,40,10
@@ -135,13 +135,13 @@ date,exercise,weight,reps
 2026-08-15,Dumbbell curl,10,10
 2026-08-15,Dumbbell curl,10,10
 2026-08-15,Dumbbell curl,10,10
-2026-08-19,Bench press,0,20
-2026-08-19,Bench press,10,15
-2026-08-19,Bench press,20,10
-2026-08-19,Bench press,30,7
-2026-08-19,Bench press,30,8
-2026-08-19,Bench press,35,4
-2026-08-19,Bench press,35,5
+2026-08-19,Bench press,20,20
+2026-08-19,Bench press,30,15
+2026-08-19,Bench press,40,10
+2026-08-19,Bench press,50,7
+2026-08-19,Bench press,50,8
+2026-08-19,Bench press,55,4
+2026-08-19,Bench press,55,5
 2026-08-19,Dumbbell incline press,17.5,10
 2026-08-19,Dumbbell incline press,17.5,10
 2026-08-19,Dumbbell incline press,17.5,10
@@ -154,15 +154,15 @@ date,exercise,weight,reps
 2026-08-19,Triceps push down,35,10
 2026-08-19,Triceps push down,30,10
 2026-08-19,Triceps push down,30,11
-2026-08-22,Bench press,0,20
-2026-08-22,Bench press,10,15
-2026-08-22,Bench press,20,11
-2026-08-22,Bench press,30,8
-2026-08-22,Bench press,30,9
-2026-08-22,Bench press,35,6
-2026-08-22,Bench press,35,5
-2026-08-22,Bench press,40,2
-2026-08-22,Bench press,40,2
+2026-08-22,Bench press,20,20
+2026-08-22,Bench press,30,15
+2026-08-22,Bench press,40,11
+2026-08-22,Bench press,50,8
+2026-08-22,Bench press,50,9
+2026-08-22,Bench press,55,6
+2026-08-22,Bench press,55,5
+2026-08-22,Bench press,60,2
+2026-08-22,Bench press,60,2
 2026-08-22,Dumbbell incline press,35,10
 2026-08-22,Dumbbell incline press,40,7
 2026-08-22,Dumbbell incline press,40,8
@@ -191,14 +191,14 @@ date,exercise,weight,reps
 2026-08-23,Chest supported row,21.25,10
 2026-08-23,Dumbbell curl,5,20
 2026-08-23,Dumbbell curl,5,15
-2026-08-24,Bench press,0,20
-2026-08-24,Bench press,10,15
-2026-08-24,Bench press,20,13
-2026-08-24,Bench press,30,10
-2026-08-24,Bench press,35,5
-2026-08-24,Bench press,35,6
-2026-08-24,Bench press,40,2
-2026-08-24,Bench press,40,3
+2026-08-24,Bench press,20,20
+2026-08-24,Bench press,30,15
+2026-08-24,Bench press,40,13
+2026-08-24,Bench press,50,10
+2026-08-24,Bench press,55,5
+2026-08-24,Bench press,55,6
+2026-08-24,Bench press,60,2
+2026-08-24,Bench press,60,3
 2026-08-24,Dips,35,10
 2026-08-24,Dips,35,10
 2026-08-24,Dips,30,8
@@ -270,15 +270,15 @@ date,exercise,weight,reps
 2026-08-28,Chest supported row,22.5,10
 2026-08-28,Chest supported row,22.5,10
 2026-08-28,Chest supported row,22.5,10
-2026-08-29,Bench press,0,20
-2026-08-29,Bench press,10,15
-2026-08-29,Bench press,20,15
-2026-08-29,Bench press,30,11
-2026-08-29,Bench press,35,7
-2026-08-29,Bench press,35,8
-2026-08-29,Bench press,40,5
-2026-08-29,Bench press,40,4
-2026-08-29,Bench press,45,2
+2026-08-29,Bench press,20,20
+2026-08-29,Bench press,30,15
+2026-08-29,Bench press,40,15
+2026-08-29,Bench press,50,11
+2026-08-29,Bench press,55,7
+2026-08-29,Bench press,55,8
+2026-08-29,Bench press,60,5
+2026-08-29,Bench press,60,4
+2026-08-29,Bench press,65,2
 2026-08-29,Dumbbell incline press,40,10
 2026-08-29,Dumbbell incline press,40,9
 2026-08-29,Dumbbell incline press,40,7
@@ -300,15 +300,15 @@ date,exercise,weight,reps
 2026-08-29,Overhead press,25,7
 2026-08-29,Overhead press,20,8
 2026-08-29,Overhead press,20,7
-2026-08-31,Bench press,0,20
-2026-08-31,Bench press,10,15
-2026-08-31,Bench press,20,15
-2026-08-31,Bench press,30,11
-2026-08-31,Bench press,35,7
-2026-08-31,Bench press,35,8
-2026-08-31,Bench press,40,5
-2026-08-31,Bench press,40,4
-2026-08-31,Bench press,45,2
+2026-08-31,Bench press,20,20
+2026-08-31,Bench press,30,15
+2026-08-31,Bench press,40,15
+2026-08-31,Bench press,50,11
+2026-08-31,Bench press,55,7
+2026-08-31,Bench press,55,8
+2026-08-31,Bench press,60,5
+2026-08-31,Bench press,60,4
+2026-08-31,Bench press,65,2
 2026-08-31,Dumbbell incline press,40,10
 2026-08-31,Dumbbell incline press,40,9
 2026-08-31,Dumbbell incline press,40,7
@@ -374,14 +374,14 @@ date,exercise,weight,reps
 2026-09-03,Chest press,40,10
 2026-09-03,Chest press,45,10
 2026-09-03,Chest press,45,10
-2026-09-03,Bench press,0,20
-2026-09-03,Bench press,10,20
-2026-09-03,Bench press,20,15
-2026-09-03,Bench press,30,11
-2026-09-03,Bench press,35,6
-2026-09-03,Bench press,35,6
-2026-09-03,Bench press,40,2
-2026-09-03,Bench press,40,2
+2026-09-03,Bench press,20,20
+2026-09-03,Bench press,30,20
+2026-09-03,Bench press,40,15
+2026-09-03,Bench press,50,11
+2026-09-03,Bench press,55,6
+2026-09-03,Bench press,55,6
+2026-09-03,Bench press,60,2
+2026-09-03,Bench press,60,2
 2026-09-03,Dumbbell incline press,40,5
 2026-09-03,Dumbbell incline press,35,8
 2026-09-03,Dumbbell incline press,35,10
@@ -451,14 +451,14 @@ date,exercise,weight,reps
 2026-09-06,Back squat,50,8
 2026-09-06,Leg press,90,10
 2026-09-06,Leg press,90,10
-2026-09-07,Bench press,0,20
-2026-09-07,Bench press,10,20
-2026-09-07,Bench press,20,15
-2026-09-07,Bench press,30,11
-2026-09-07,Bench press,35,6
-2026-09-07,Bench press,35,7
-2026-09-07,Bench press,40,5
-2026-09-07,Bench press,40,2
+2026-09-07,Bench press,20,20
+2026-09-07,Bench press,30,20
+2026-09-07,Bench press,40,15
+2026-09-07,Bench press,50,11
+2026-09-07,Bench press,60,6
+2026-09-07,Bench press,55,7
+2026-09-07,Bench press,60,5
+2026-09-07,Bench press,60,2
 2026-09-07,Dumbbell incline press,40,10
 2026-09-07,Dumbbell incline press,45,6
 2026-09-07,Dumbbell incline press,45,6
@@ -522,15 +522,15 @@ date,exercise,weight,reps
 2026-09-09,Chest press,50,10
 2026-09-09,Chest press,50,10
 2026-09-09,Chest press,60,10
-2026-09-10,Bench press,0,10
-2026-09-10,Bench press,10,10
 2026-09-10,Bench press,20,10
 2026-09-10,Bench press,30,10
-2026-09-10,Bench press,35,7
-2026-09-10,Bench press,35,8
-2026-09-10,Bench press,40,6
-2026-09-10,Bench press,45,3
-2026-09-10,Bench press,50,1
+2026-09-10,Bench press,40,10
+2026-09-10,Bench press,50,10
+2026-09-10,Bench press,55,7
+2026-09-10,Bench press,55,8
+2026-09-10,Bench press,60,6
+2026-09-10,Bench press,65,3
+2026-09-10,Bench press,70,1
 2026-09-10,Dumbbell incline press,45,7
 2026-09-10,Dumbbell incline press,45,8
 2026-09-10,Dumbbell incline press,45,8
