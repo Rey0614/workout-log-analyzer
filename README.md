@@ -59,3 +59,9 @@ Foot-Assisted Chest Press: 20.0
 | 集計 | 辞書で最大値を比較 | `groupby().max()` |
 
 両者の出力が一致することを辞書比較で検証済み。
+
+## 分析例: ベンチプレスの推移
+
+![Bench Press Progress](bench_progress.png)
+
+5週間で55kg → 70kg。8月末に一度停滞期があり、その後PRを更新している。
