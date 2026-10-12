@@ -1,18 +1,28 @@
-# Workout Log Analyser
+# Workout Log Analyzer
 
-このプロジェクトは筋トレの記録csvから、種目ごとの最高重量を自動で抽出する。
+Turns my own messy gym log (CSV) into each exercise's personal best, and tracks how my bench press progressed.
 
-## なぜ作ったか
-このプログラミングを作った理由としては、私の筋肉の成長の速さやどういった時に停滞期に陥っているかのような傾向を知るのに良いと思ったため。
+## Key results
+- Cleaned real, messy gym data: the gym changed how assisted machines were labeled mid-way
+  ("8th from top" → "40"), so I converted old labels to actual weights instead of dropping them.
+- Bench press went from 55 kg to 70 kg in 5 weeks, with a plateau in late August before a new PR.
+- Rewrote the 40-line plain-Python version in 6 lines of pandas, and verified both give identical results.
 
-## 使い方
-必要なものとしては筋トレ記録がされているcsvファイルとそれを操作するためのpythonのコードが書かれたファイル。それらが存在するディレクトリの中で
+![Bench Press Progress](bench_progress.png)
 
- python3 load_data.py
-を実行するとコードが動く。
+## Why I built this
+I wanted to see how fast my strength is actually improving, and to spot when I hit a plateau.
 
-## 実行結果
+## How to run
+Put your workout log (CSV) and the script in the same folder, then run:
+
 ```bash
+python3 load_data.py   # plain Python version
+python3 analyze.py     # pandas version
+```
+
+## Output
+```
 Smith machine bench press: 40.0
 Dumbbell incline press: 45.0
 Dumbbell lateral raise: 20.0
@@ -25,7 +35,7 @@ Face pull: 25.0
 Dumbbell curl: 12.5
 Back squat: 60.0
 Leg press: 110.0
-Bench press: 50.0
+Bench press: 70.0
 Chest press: 60.0
 Assisted pull up: 40.0
 Chest supported row: 25.0
@@ -36,32 +46,39 @@ Chest fly machine: 90.0
 Arm curl: 10.0
 Foot-Assisted Chest Press: 20.0
 ```
-まだ試用段階であるため、見栄えは良くないが、書き出すことができ、また、それぞれの値を取り出すことも可能なので、pandasなどのライブラリを使って、データ分析が可能な状態。
 
-## 詰まった点と解決
-一番詰まった点は、記録の仕方の外れ値をどう扱うか。dipsの表記の仕方が途中で変わっている。
+**Data note:** all weights include the 20 kg barbell. Early bench press records were logged without the bar, so I corrected them retroactively.
+
+## The hardest part: messy real-world data
+The hardest part was deciding how to handle inconsistent records. Partway through, the way dips were logged changed:
+
 ```
 2026-08-06,Dips,7th from top,10
 2026-08-14,Dips,40,10
 ```
-理由は単純でジムでの表記が変わったからなのだが、もちろんこれだとfloat()が文字列を数値に変換できずValueErrorが起きてしまう。解決方法としては３つあり、dipsの種目自体を無視する、変更前のものは無視をする、変更前のものをプログラミングで数値に変更する（数値が分かった上で）の中で私は数値を変更することを選んだ。そのためには、正確に何が書いてあるかを調べた上で、そのすべての文字を数字と置き換える必要がある。その際、一旦、dipsだけを取り出して、文字の確認をしようとしたたが、効率的なやり方を知らない上に、既存のコードと混乱することもあり、骨が折れた。また、treadmillに関しても同じことが言えるが、これに関しては、不定期だったことと、筋肉の傾向を知るのに重要ではないと考え、省いた。その処理に関してはtry exceptを使った。
 
-## pandas版について
+The reason was simple: the gym changed the labels on the assisted machine. But `float()` cannot convert a string like "7th from top" into a number, so it raised a `ValueError`.
 
-同じ処理を pandas で書き直した（`analyze.py`）。
-標準ライブラリ版は40行、pandas版は6行。
+I considered three options:
+1. Drop dips entirely
+2. Drop only the old-format records
+3. Convert the old labels into actual weights, since I knew what each label meant
 
-| 処理 | 標準ライブラリ | pandas |
+I chose option 3. To do that, I first had to find out exactly which labels existed and replace every one of them. I tried pulling out only the dips rows to check, but I didn't yet know an efficient way to do it, and it got tangled with my existing code, so it took real effort.
+
+Treadmill entries had the same problem. Since I only did cardio occasionally and it is not relevant to strength progress, I excluded those rows using `try/except`.
+
+## Rewriting it with pandas
+I rewrote the same logic in pandas (`analyze.py`). The plain-Python version is 40 lines; the pandas version is 6.
+
+| Step | Plain Python | pandas |
 |---|---|---|
-| 読み込み・分解 | `open` + `split(",")` | `read_csv()` |
-| 変換できない値 | `try/except` → `None` | `to_numeric(errors="coerce")` → `NaN` |
-| 除外 | `continue` | `dropna(subset=["weight"])` |
-| 集計 | 辞書で最大値を比較 | `groupby().max()` |
+| Read and split | `open` + `split(",")` | `read_csv()` |
+| Values that can't be converted | `try/except` → `None` | `to_numeric(errors="coerce")` → `NaN` |
+| Exclude them | `continue` | `dropna(subset=["weight"])` |
+| Aggregate | compare max values in a dict | `groupby().max()` |
 
-両者の出力が一致することを辞書比較で検証済み。
+I verified that both versions produce exactly the same output by comparing their dictionaries.
 
-## 分析例: ベンチプレスの推移
-
-![Bench Press Progress](bench_progress.png)
-
-5週間で55kg → 70kg。8月末に一度停滞期があり、その後PRを更新している。
+## Example analysis: bench press progress
+In 5 weeks, my best bench press went from 55 kg to 70 kg. There was a plateau in late August before I set a new PR.
